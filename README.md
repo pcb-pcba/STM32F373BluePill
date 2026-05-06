@@ -4,8 +4,8 @@ STM32F373CxT6 development board project, designed in Altium, for proper use of t
 ![display](Project/4.png)
 
 <div style="display: flex; gap: 10px;">
-  <img src="Project/1.png" style="width: 50%; height: auto;" alt="Top">
-  <img src="Project/2.png" style="width: 50%; height: auto;" alt="Bottom">
+  <img src="Project/1.png" style="width: 49%; height: auto;" alt="Top">
+  <img src="Project/2.png" style="width: 49%; height: auto;" alt="Bottom">
 </div>
 
 ## Stackup
