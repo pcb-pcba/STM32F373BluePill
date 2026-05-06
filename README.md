@@ -14,3 +14,5 @@ Yes, it would have been possible to use a smaller quartz crystal, etc., but I ju
 It is a 4 layer board which provides proper grounding. The stack parameters for proper USB port operation are as follows:
 
 ![display](Project/5.png)
+
+This is the default stackup of one of those Chinese factories.
