@@ -8,6 +8,8 @@ STM32F373CxT6 development board project, designed in Altium, for proper use of t
   <img src="Project/2.png" style="width: 49%; height: auto;" alt="Bottom">
 </div>
 
+Yes, it would have been possible to use a smaller quartz crystal, etc., but I just wanted to make it look like the original Blue Peel.
+
 ## Stackup
 It is a 4 layer board which provides proper grounding. The stack parameters for proper USB port operation are as follows:
 
