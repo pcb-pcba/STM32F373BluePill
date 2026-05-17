@@ -15,7 +15,7 @@ It is a 4 layer board which provides proper grounding. The stack parameters for 
 
 
 <div align="center">
-  <img src="Project/5.png" alt="STM32F373CxT6 Blue Pill Stackup" style="max-width: 500px; width: 70%; height: 90%;">
+  <img src="Project/5.png" alt="STM32F373CxT6 Blue Pill Stackup" style="max-width: 500px; width: 70%; height: 50%;">
 </div>
 
 
